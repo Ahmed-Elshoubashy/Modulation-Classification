@@ -1,1 +1,2 @@
 # Modulation-Classification
+ in this project we train the different model using different classifiers( Logistic Regression Classifier , Decision Tree , Random Forest , A fully connected dense layer , and CNN) and we used the raw data , its derivative , its integration and all possible combination to determine which is better for each classiffier , we run the project first using the validation data , and after determning which is best for each classiffier , we used the test data to test the project. 
